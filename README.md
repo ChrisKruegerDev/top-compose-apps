@@ -20,6 +20,10 @@ Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt
 
 [@chrisbanes](https://github.com/chrisbanes)
 
+# [Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) (+3.3K ⭐)
+This is a Jetpack Compose example project. I'm collecting a bunch of sample codes for Jetpack Compose. I also collect information/tutorials on the GitHub page https://foso.github.io/compose.
+
+[@Foso](https://github.com/Foso)
 
 # [PeopleInSpace](https://github.com/joreilly/PeopleInSpace) (+2.8K ⭐)
 _Learn how to build an app on a variety of platforms_
@@ -28,8 +32,12 @@ Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Compose for Wear OS,
 
 [@joreilly](https://github.com/joreilly)
 
+# [JetInstagram](https://github.com/vipulasri/JetInstagram) (+0.7K ⭐)
+JetInstagram is an Instagram UI clone app built with Jetpack Compose.
 
-# [Confetti]([https://github.com/joreilly/PeopleInSpace](https://github.com/joreilly/Confetti)) (+0.6K ⭐)
+[@vipulasri](https://github.com/vipulasri)
+
+# [Confetti](https://github.com/joreilly/Confetti) (+0.6K ⭐)
 _Learn how a Compose Multiplatform works in product_
 
 Kotlin Multiplatform GraphQL project (backend and clients) to allow viewing of conference information for a range of conferences.
