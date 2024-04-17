@@ -20,6 +20,13 @@ Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt
 
 [@chrisbanes](https://github.com/chrisbanes)
 
+# [ComposeCookBook](https://github.com/Gurupreet/ComposeCookBook) (+6.0K ⭐)
+_Learn how to implement plenty of UI components_
+
+Jetpack Compose is Android’s modern toolkit for building native UI. It simplifies and accelerates UI development on Android. Quickly bring your app to life with less code, powerful tools, and intuitive Kotlin APIs.
+
+[@Gurupreet](https://github.com/Gurupreet)
+
 # [Jetpack-Compose-Playground](https://github.com/Foso/Jetpack-Compose-Playground) (+3.3K ⭐)
 This is a Jetpack Compose example project. I'm collecting a bunch of sample codes for Jetpack Compose. I also collect information/tutorials on the GitHub page https://foso.github.io/compose.
 
@@ -31,6 +38,16 @@ _Learn how to build an app on a variety of platforms_
 Kotlin Multiplatform project with SwiftUI, Jetpack Compose, Compose for Wear OS, Compose for Desktop, Compose for Web, and Kotlin/JS + React clients along with Ktor backend. 
 
 [@joreilly](https://github.com/joreilly)
+
+# [NotyKT](https://github.com/PatilShreyas/NotyKT) (+1.6K ⭐)
+otyKT is a complete 💎Kotlin-stack (Backend + Android) 📱 application built to demonstrate the use of Modern development tools with best practices implementation🦸.
+
+[@joreilly](https://github.com/PatilShreyas)
+
+# [DisneyCompose](https://github.com/skydoves/DisneyCompose) (+0.9K ⭐)
+A demo Disney app using Jetpack Compose and Hilt based on modern Android tech stacks and MVVM architecture.
+
+[@skydoves](https://github.com/skydoves)
 
 # [JetInstagram](https://github.com/vipulasri/JetInstagram) (+0.7K ⭐)
 JetInstagram is an Instagram UI clone app built with Jetpack Compose.
@@ -50,7 +67,6 @@ _Learn how to combine Compose Multiplatform with a music player_
 This is a music player app built using Compose Multiplatform UI that works on Android, iOS, Desktop, and Web platforms. It uses the spotify api for fetching the top 50 charts and getting the trending albums. The Google login is still in pending and for now, you need to add the spotify token manually. You can easily hit the endpoint here to get the album and then get the token and set in the app.
 
 [@SEAbdulbasit](https://github.com/SEAbdulbasit)
-
 
 # [Food2Fork-KMM](https://github.com/mitchtabian/Food2Fork-KMM) (+0.3K ⭐)
 _Good and simple app to learn Compose Multiplatform_
