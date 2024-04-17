@@ -68,6 +68,11 @@ This is a music player app built using Compose Multiplatform UI that works on An
 
 [@SEAbdulbasit](https://github.com/SEAbdulbasit)
 
+# [pokedex-compose](https://github.com/skydoves/pokedex-compose) (+0.3K ⭐)
+Pokedex Compose demonstrates modern Android development with Jetpack Compose, Hilt, Coroutines, Flow, Jetpack (Room, ViewModel), and Material Design based on MVVM architecture.
+
+[@skydoves](https://github.com/skydoves)
+
 # [Food2Fork-KMM](https://github.com/mitchtabian/Food2Fork-KMM) (+0.3K ⭐)
 _Good and simple app to learn Compose Multiplatform_
 
